@@ -23,6 +23,7 @@
 #### Consumer Features
 - [ ] As a Consumer, I want to search for Service Providers based on my specific requirements.
 - [ ] As a Consumer, I want to provide a rating for a Service Provider.
+- [ ] As a Consumer, I want to receive a feedback form to share my experience.
 
 ---
 
@@ -35,6 +36,7 @@
 #### ServiceProvider Features
 - [ ] As a ServiceProvider, I want to list my services on the janSuvidhaApp.
 - [ ] As a ServiceProvider, I want the ability to remove services I no longer provide.
+- [ ] As a ServiceProvider, I want to be notified of Consumer feedback on my services.
 
 ---
 
@@ -47,3 +49,10 @@
 #### Administrative Control
 - [ ] As an Admin, I want to add a new user to the janSuvidhaApp.
 - [ ] As an Admin, I want the ability to remove a User or ServiceProvider when necessary.
+- [ ] As an Admin, I want the ability to remove unnecessary services provided by ServiceProviders.
+
+#### Consumer Feedback
+- [ ] As an Admin, I want to find a way to send feedback forms to Consumers for their input.
+- [ ] Currently, consumers are not required to authenticate, allowing easy access to services. We will integrate authentication when consumer feedback is needed or when consumers need to view their service history.
+
+---
